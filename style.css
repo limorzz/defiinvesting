@@ -117,30 +117,7 @@ h6 {
 # Top Bar
 --------------------------------------------------------------*/
 
-#topbar {
-  padding: 0 0 10px 0;
-  font-size: 14px;
-  transition: all 0.5s;
-}
 
-#topbar .social-links {
-  text-align: right;
-}
-
-#topbar .social-links a {
-  color: #535074;
-  padding: 4px 12px;
-  display: inline-block;
-  line-height: 1px;
-}
-
-#topbar .social-links a:hover {
-  color: #1bb1dc;
-}
-
-#topbar .social-links a:first-child {
-  border-left: 0;
-}
 
 /*--------------------------------------------------------------
 # Header
@@ -381,12 +358,7 @@ h6 {
   font-weight: 500;
 }
 
-.mobile-nav a:hover,
-.mobile-nav .active > a,
-.mobile-nav li:hover > a {
-  color: #8dc2fa;
-  text-decoration: none;
-}
+
 
 
 
