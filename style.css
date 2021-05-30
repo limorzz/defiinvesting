@@ -331,32 +331,7 @@ h6 {
 
 /* Mobile Navigation */
 
-.mobile-nav {
-  position: fixed;
-  top: 0;
-  bottom: 0;
-  z-index: 9999;
-  overflow-y: auto;
-  left: -260px;
-  width: 260px;
-  padding-top: 18px;
-  background: rgba(40, 38, 70, 0.8);
-  transition: 0.4s;
-}
 
-.mobile-nav * {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
-.mobile-nav a {
-  display: block;
-  position: relative;
-  color: #fff;
-  padding: 10px 20px;
-  font-weight: 500;
-}
 
 
 
